@@ -25,7 +25,7 @@
 		}
 	});
 
-	// 输入框输入关键字的时候，每隔300ms执行搜索关键字，看是否有匹配的列表(auto complete)
+	// 输入框输入关键字的时候，隔300ms执行搜索关键字，看是否有匹配的列表(auto complete)
 	$('#keywords').on('keyup',function(e){
 		e.preventDefault();
 		if(e.keyCode != keys.ENTER && e.keyCode != keys.ESCAPE){
