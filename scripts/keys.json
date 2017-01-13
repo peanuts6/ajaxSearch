@@ -1,0 +1,26 @@
+{
+	"data":[
+		{
+			"tiptype":1, 
+			"name":"广东", 
+			"code":"guangdong" 
+		},
+		{
+			"tiptype":2,
+			"name":"广东", 
+			"code":"guangdong" 
+		},
+		{
+			"tiptype":1,
+			"name":"广东", 
+			"code":"guangdong" 
+		},
+		{
+			"tiptype":1,
+			"name":"广东", 
+			"code":"guangdong" 
+		}
+	],
+	"err":0,
+	"msg":""
+}
